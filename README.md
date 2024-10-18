@@ -7,3 +7,7 @@ Consulta Currency (Realiza consulta a la API Exchange Rate obtiene la tasa de ca
 Moneda a convertir (Define un Record que será el puente de comunicación entre el conversor y la API)
 Convertidor (Realiza el  proceso de conversión y devuelve un resultado)
 
+
+
+
+![ConversorSalida](https://github.com/user-attachments/assets/ff4b8359-27b5-4200-a83b-2f68382e2c33)
